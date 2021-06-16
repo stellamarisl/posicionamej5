@@ -1,0 +1,43 @@
+body{
+    width: 100%;
+    height: auto;
+    justify-content: center;
+    display: flex;
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+    width: 329px;
+    height: 385px;
+    
+}
+.card{
+    width: 329px;
+    height: 378px;
+    background-color: rgb(238, 230, 230);
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+}
+.img.florenciabonelli.png{
+ border-radius: 100px;
+ padding: 25px;
+}
+.bandera{
+    position: relative;
+    top: 235px;
+    right: 100px;
+}
+.contenedor-datos{
+    align-items: center;
+    position: absolute;
+    top: 300px;
+    width: 218px;
+    height: 98px;
+    font-family: 'Baloo Tammudu 2', cursive;
+    color: black;
+    font: bold;
+}
+
+
